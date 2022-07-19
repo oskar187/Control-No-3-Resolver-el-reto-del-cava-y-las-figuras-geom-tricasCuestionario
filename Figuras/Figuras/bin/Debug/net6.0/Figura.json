@@ -1,0 +1,19 @@
+{
+  "Lista": [
+    {
+      "Tipo": "circulo",
+      "Texto": "hola",
+      "Caracteristicas":  "radio=30;"
+    },
+    {
+      "Tipo": "triangulo",
+      "Texto": "hi",
+      "Caracteristicas":  "a=15;b=22;c=3"
+    },
+    {
+      "Tipo": "rectangulo",
+      "Texto": "holas",
+      "Caracteristicas":  "base=20;altura=10"
+    }
+  ]
+}

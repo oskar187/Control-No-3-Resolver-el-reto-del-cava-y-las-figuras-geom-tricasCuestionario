@@ -1,0 +1,24 @@
+C:\Users\Sistema\source\repos\Canvas\Canvas\bin\Debug\net6.0\Libreria.deps.json
+C:\Users\Sistema\source\repos\Canvas\Canvas\bin\Debug\net6.0\Libreria.dll
+C:\Users\Sistema\source\repos\Canvas\Canvas\bin\Debug\net6.0\ref\Libreria.dll
+C:\Users\Sistema\source\repos\Canvas\Canvas\bin\Debug\net6.0\Libreria.pdb
+C:\Users\Sistema\source\repos\Canvas\Canvas\obj\Debug\net6.0\Libreria.csproj.AssemblyReference.cache
+C:\Users\Sistema\source\repos\Canvas\Canvas\obj\Debug\net6.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sistema\source\repos\Canvas\Canvas\obj\Debug\net6.0\Libreria.AssemblyInfoInputs.cache
+C:\Users\Sistema\source\repos\Canvas\Canvas\obj\Debug\net6.0\Libreria.AssemblyInfo.cs
+C:\Users\Sistema\source\repos\Canvas\Canvas\obj\Debug\net6.0\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\Sistema\source\repos\Canvas\Canvas\obj\Debug\net6.0\Libreria.dll
+C:\Users\Sistema\source\repos\Canvas\Canvas\obj\Debug\net6.0\ref\Libreria.dll
+C:\Users\Sistema\source\repos\Canvas\Canvas\obj\Debug\net6.0\Libreria.pdb
+D:\ITSQ\5to Semestre\Lenguaje de Programacion 4\Trabajos en Clase\Control2\Canvas\Canvas\bin\Debug\net6.0\Libreria.deps.json
+D:\ITSQ\5to Semestre\Lenguaje de Programacion 4\Trabajos en Clase\Control2\Canvas\Canvas\bin\Debug\net6.0\Libreria.dll
+D:\ITSQ\5to Semestre\Lenguaje de Programacion 4\Trabajos en Clase\Control2\Canvas\Canvas\bin\Debug\net6.0\Libreria.pdb
+D:\ITSQ\5to Semestre\Lenguaje de Programacion 4\Trabajos en Clase\Control2\Canvas\Canvas\obj\Debug\net6.0\Libreria.csproj.AssemblyReference.cache
+D:\ITSQ\5to Semestre\Lenguaje de Programacion 4\Trabajos en Clase\Control2\Canvas\Canvas\obj\Debug\net6.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSQ\5to Semestre\Lenguaje de Programacion 4\Trabajos en Clase\Control2\Canvas\Canvas\obj\Debug\net6.0\Libreria.AssemblyInfoInputs.cache
+D:\ITSQ\5to Semestre\Lenguaje de Programacion 4\Trabajos en Clase\Control2\Canvas\Canvas\obj\Debug\net6.0\Libreria.AssemblyInfo.cs
+D:\ITSQ\5to Semestre\Lenguaje de Programacion 4\Trabajos en Clase\Control2\Canvas\Canvas\obj\Debug\net6.0\Libreria.csproj.CoreCompileInputs.cache
+D:\ITSQ\5to Semestre\Lenguaje de Programacion 4\Trabajos en Clase\Control2\Canvas\Canvas\obj\Debug\net6.0\Libreria.dll
+D:\ITSQ\5to Semestre\Lenguaje de Programacion 4\Trabajos en Clase\Control2\Canvas\Canvas\obj\Debug\net6.0\refint\Libreria.dll
+D:\ITSQ\5to Semestre\Lenguaje de Programacion 4\Trabajos en Clase\Control2\Canvas\Canvas\obj\Debug\net6.0\Libreria.pdb
+D:\ITSQ\5to Semestre\Lenguaje de Programacion 4\Trabajos en Clase\Control2\Canvas\Canvas\obj\Debug\net6.0\ref\Libreria.dll
