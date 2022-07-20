@@ -35,13 +35,22 @@
                 }
                 else
                 {
-                    respuesta = "Las figuras ingresaron correctamente con sus respectivos textos en el Canvas.!!";
+
+                    for (int i = 0; i < espaciosTextos.Length; i++)
+                    {
+                        Console.WriteLine("La figura: " + tipos[i] + " Tiene un espacio: " + ((espaciosTextos[i] / 3) * 2) + " y el texto: " + textos[i]);
+                    }
+                    respuesta = "Las figuras ingresaron correctamente con sus respectivos textos en el Canvas.!! \n";
 
                 }
             }
             else
             {
-                respuesta = "No se puede!, La suma del área de las figuras(" + areaTotal + ") es mayor que el área del canvas(" + (ancho * alto) + ")";
+                for (int i = 0; i < espaciosTextos.Length; i++)
+                {
+                    Console.WriteLine("La figura: " + tipos[i] + " Tiene un espacio: " + ((espaciosTextos[i] / 3) * 2) + " y el texto: " + textos[i]);
+                }
+                respuesta = "Advertencia!, La suma del área de las figuras(" + areaTotal + "px) es mayor que el área del canvas(" + (ancho * alto) + "px)";
             }
 
             return respuesta;
