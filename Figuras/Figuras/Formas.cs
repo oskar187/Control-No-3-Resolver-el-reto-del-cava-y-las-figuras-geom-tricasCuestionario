@@ -19,6 +19,10 @@
             {
                 return new Triangulo();
             }
+            else if (figura == "pentagono")
+            {
+                return new Pentagono();
+            }
 
             else
             {

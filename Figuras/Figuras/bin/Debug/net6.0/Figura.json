@@ -6,14 +6,29 @@
       "Caracteristicas":  "radio=30;"
     },
     {
+      "Tipo": "circulo",
+      "Texto": "Stop",
+      "Caracteristicas":  "radio=30;"
+    },
+    {
       "Tipo": "triangulo",
-      "Texto": "hi",
-      "Caracteristicas":  "a=15;b=22;c=3"
+      "Texto": "Pera",
+      "Caracteristicas":  "a=30;b=30;c=30"
+    },
+    {
+      "Tipo": "triangulo",
+      "Texto": "Sol",
+      "Caracteristicas":  "a=30;b=30;c=30"
     },
     {
       "Tipo": "rectangulo",
-      "Texto": "holas",
-      "Caracteristicas":  "base=20;altura=10"
+      "Texto": "Mail",
+      "Caracteristicas":  "base=30;altura=10"
+    },
+    {
+      "Tipo": "pentagono",
+      "Texto": "Pez",
+      "Caracteristicas":  "radio=20;"
     }
   ]
 }
